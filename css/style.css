@@ -1,0 +1,324 @@
+body {
+    background-image: url(../img/fon2.jpg);
+    margin: 0;
+}
+header {
+    background-color: #fc97a8;
+    min-height: 150px;
+    padding-top: 8px;
+}
+.textheader {
+    color: rgb(255, 255, 255);
+    
+    text-align: center;
+    font-size: 50px;
+}
+.text {
+    text-align: center;
+    color: rgb(103, 9, 53);
+    font-size: 20px;
+    background-color: aliceblue;
+    width: 300px;
+    
+    padding: 3px;
+    opacity: 0.7;
+    background-size: 20px;
+}
+.knopkayes {
+    display: inline-block;
+    background: pink;
+    color: #8c0a20;
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 20px;
+    width: 75px;
+    text-decoration: none;
+    margin: 0 auto;
+    display: block;
+}
+.knopkano1 {
+    display: inline-block;
+    background: rgb(86, 10, 29);
+    color: #fdfdfd;
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 20px;
+    width: 75px;
+    text-decoration: none;
+    margin: 0 auto;
+    display: block;   
+}
+.pic1 {
+    width: 200px;
+    padding-top: 10px;
+    
+}
+.knopkano2 {
+    display: inline-block;
+    background: rgb(86, 10, 29);
+    color: #fdfdfd;
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 18px;
+    width: 100px;
+    text-decoration: none;
+    margin: 0 auto;
+    display: block;   
+}
+.wrapper {
+    display: flex;
+   padding-left: 44%;
+    text-align: center;
+}
+.block {
+  margin: 2px;
+  text-align: center;
+}
+.knopkayes2 {
+    display: inline-block;
+    background: pink;
+    color: #8c0a20;
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 40px;
+    width: 75px;
+    text-decoration: none;
+    margin: 0 auto;
+    display: block;
+}
+.pic2 {
+    width: 200px;
+    padding-top: 10px;
+}
+.knopkayes3 {
+    display: inline-block;
+    background: pink;
+    color: #8c0a20;
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 55px;
+    width: 75px;
+    text-decoration: none;
+    margin: 0 auto;
+    display: block;
+}
+.knopkano3 {
+    display: inline-block;
+    background: rgb(86, 10, 29);
+    color: #fdfdfd;
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 18px;
+    width: 170px;
+    text-decoration: none;
+    margin: 0 auto;
+    display: block;  
+}
+.pic3 {
+    width: 200px;
+    padding-top: 10px;
+}
+.knopkayes4 {
+    display: inline-block;
+    background: pink;
+    color: #8c0a20;
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 65px;
+    width: 85px;
+    text-decoration: none;
+    margin: 0 auto;
+    display: block;
+}
+.knopkano4 {
+    display: inline-block;
+    background: rgb(86, 10, 29);
+    color: #fdfdfd;
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 18px;
+    width: 170px;
+    text-decoration: none;
+    margin: 0 auto;
+    display: block;  
+}
+.pic4 {
+    width: 200px;
+    padding-top: 10px;
+}
+.knopkayes5 {
+    display: inline-block;
+    background: pink;
+    color: #8c0a20;
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 75px;
+    width: 95px;
+    text-decoration: none;
+    margin: 0 auto;
+    display: block;
+}
+.knopkano5 {
+    display: inline-block;
+    background: rgb(86, 10, 29);
+    color: #fdfdfd;
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 18px;
+    width: 150px;
+    text-decoration: none;
+    margin: 0 auto;
+    display: block; 
+}
+.pic5 {
+    width: 210px;
+    padding-top: 10px;
+}
+.knopkayes6 {
+    display: inline-block;
+    background: pink;
+    color: #8c0a20;
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 85px;
+    width: 135px;
+    text-decoration: none;
+    margin: 0 auto;
+    display: block;
+}
+.knopkano6 {
+    display: inline-block;
+    background: rgb(86, 10, 29);
+    color: #fdfdfd;
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 18px;
+    width: 180px;
+    text-decoration: none;
+    margin: 0 auto;
+    display: block; 
+}
+.pic6 {
+    width: 210px;
+    padding-top: 10px;
+}
+.knopkayes7 {
+    display: inline-block;
+    background: pink;
+    color: #8c0a20;
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 95px;
+    width: 135px;
+    text-decoration: none;
+    margin: 0 auto;
+    display: block;
+}
+.knopkano7 {
+    display: inline-block;
+    background: rgb(86, 10, 29);
+    color: #fdfdfd;
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 18px;
+    width: 180px;
+    text-decoration: none;
+    margin: 0 auto;
+    display: block; 
+}
+.pic7 {
+    width: 200px;
+    padding-top: 10px;
+}
+.knopkayes8 {
+    display: inline-block;
+    background: pink;
+    color: #8c0a20;
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 105px;
+    width: 135px;
+    text-decoration: none;
+    margin: 0 auto;
+    display: block;
+}
+.knopkano8 {
+    display: inline-block;
+    background: rgb(86, 10, 29);
+    color: #fdfdfd;
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 18px;
+    width: 180px;
+    text-decoration: none;
+    margin: 0 auto;
+    display: block; 
+}
+.pic8 {
+    width: 200px;
+    padding-top: 10px;
+}
+.knopkayes9 {
+    display: inline-block;
+    background: pink;
+    color: #8c0a20;
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 115px;
+    width: 145px;
+    text-decoration: none;
+    margin: 0 auto;
+    display: block;
+}
+.knopkano9 {
+    display: inline-block;
+    background: rgb(86, 10, 29);
+    color: #fdfdfd;
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 18px;
+    width: 180px;
+    text-decoration: none;
+    margin: 0 auto;
+    display: block; 
+}
+.pic9 {
+    width: 200px;
+    padding-top: 10px;
+}
+.knopkayes10 {
+    display: inline-block;
+    background: pink;
+    color: #8c0a20;
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 125px;
+    width: 155px;
+    text-decoration: none;
+    margin: 0 auto;
+    display: block;
+}
+.knopkano10 {
+    display: inline-block;
+    background: rgb(86, 10, 29);
+    color: #fdfdfd;
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 18px;
+    width: 100px;
+    text-decoration: none;
+    margin: 0 auto;
+    display: block; 
+}
+.pic10 {
+    width: 200px;
+    padding-top: 10px;
+}
+.pic11 {
+    width: 300px;
+    padding-top: 10px;
+}
+.pic12 {
+    width: 300px;
+    padding-top: 10px; 
+}
